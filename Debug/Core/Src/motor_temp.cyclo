@@ -1,0 +1,4 @@
+../Core/Src/motor_temp.c:37:9:check_I2C_is_ready	3
+../Core/Src/motor_temp.c:55:6:get_motor_temp	5
+../Core/Src/motor_temp.c:89:9:CalculateCRC	4
+../Core/Src/motor_temp.c:116:6:HAL_I2C_ErrorCallback	13

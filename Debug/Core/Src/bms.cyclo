@@ -1,0 +1,4 @@
+../Core/Src/bms.c:29:6:calcChecksum	2
+../Core/Src/bms.c:38:6:readBasicInfo	8
+../Core/Src/bms.c:74:6:HAL_UART_RxCpltCallback	2
+../Core/Src/bms.c:83:6:HAL_UART_TxCpltCallback	2

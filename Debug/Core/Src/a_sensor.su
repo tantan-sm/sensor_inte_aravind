@@ -1,0 +1,4 @@
+../Core/Src/a_sensor.c:51:6:Calculate_Vref	8	static
+../Core/Src/a_sensor.c:64:6:sensor_calliberation	16	static
+../Core/Src/a_sensor.c:89:6:a_sensor_value	16	static
+../Core/Src/a_sensor.c:134:1:HAL_ADC_ConvCpltCallback	16	static
